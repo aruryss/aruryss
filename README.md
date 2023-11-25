@@ -1,20 +1,19 @@
-# 💫 Aru Ryss
+<h1 align="center"> Hi, I am Aru Ryss 💫</h1>
 
-**`Aspiring Data Scientist`**
+<h3 align="center">Aspiring Data Scientist from Kazakhstan</h3>
 
-I'm a Data Science & Machine Learning Enthusiast. I analyze data to make effective decisions that improve the inclusivity and accessibility of my projects. Interested in NLP and CV, I explore possibilities of Machine Learning to build useful tools for my community. Currently, Chair of ACM-Women Student Chapter at Nazarbayev University.
+<p>I'm a Data Science & Machine Learning Enthusiast. I analyze data to make effective decisions that improve the inclusivity and accessibility of my projects. Interested in NLP and CV, I explore possibilities of Machine Learning to build useful tools for my community. Currently, Chair of ACM-Women Student Chapter at Nazarbayev University.<p>
 
-- 📫 How to reach me **aru.ryssayeva@gmail.com**
+- 📫 Reach me @ **aru.ryssayeva@gmail.com**
 
-<details>
- <summary><h3>👩‍💻 Aru's Coding Journey</h3></summary>
-   I started as a 
+<h3>👩‍💻 Aru's Coding Journey</h3>
+<p>I started as a </p>
 
 [website]: https://aruryss.super.site/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aruryss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aruryss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aruryss" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" height="30" width="40" /></a>
 <a href="https://www.behance.net/aruryss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aruryss" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aruryss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aruryss" height="30" width="40" /></a>
 </p>
