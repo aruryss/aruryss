@@ -6,9 +6,6 @@
 
 - 📫 Reach me @ **aru.ryssayeva@gmail.com**
 
-<h3>👩‍💻 Aru's Coding Journey</h3>
-<p>I started as a </p>
-
 [website]: https://aruryss.super.site/
 
 <h3 align="left">Connect with me:</h3>
